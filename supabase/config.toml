@@ -1,0 +1,4 @@
+project_id = "dvfknfniksvgmwmtrecv"
+
+[functions.simulate-delivery-progress]
+verify_jwt = false
